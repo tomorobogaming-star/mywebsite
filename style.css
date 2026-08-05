@@ -17,3 +17,19 @@ body {
   margin: 20px;
  background-color: rgb(207, 0, 207);
 }
+.to o mnie {
+  width: 300px;
+  border: 15px solid rgb(105, 0, 126);
+  border-radius: 50px;
+  padding: 50px;
+  margin: 20px;
+ background-color: rgb(207, 0, 207);
+}
+.projects {
+  width: 300px;
+  border: 15px solid rgb(105, 0, 126);
+  border-radius: 50px;
+  padding: 50px;
+  margin: 20px;
+ background-color: rgb(207, 0, 207);
+}
