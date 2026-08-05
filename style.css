@@ -1,6 +1,11 @@
 body {
        background-color: rgb(61, 26, 133);
 }
-odnosniki {
+odnosniki {div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
     color: rgb(255, 255, 255);
 }
