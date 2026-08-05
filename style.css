@@ -1,11 +1,6 @@
 body {
-       background-color: rgb(61, 26, 133);
+       background-color: rgb(210, 188, 255);
 }
 .odnosniki {
-  width: 250px;
-  height: 50px;
-  border: 15px solid rgb(73, 0, 209);
-  padding: 50px;
-  margin: 1px;
-  content:solid rgb(178, 45, 255);
+    background-color: rgb(255, 255, 255);
 }
