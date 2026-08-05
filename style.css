@@ -3,7 +3,7 @@ body {
 }
 .odnosniki {
   width: 300px;
-  border: 15px solid green;
-  padding: 50px;
+  border: 15px solid rgb(73, 0, 209);
+  padding: 50px solid rgb(126, 27, 255);
   margin: 20px;
 }
